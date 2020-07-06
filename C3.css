@@ -4,3 +4,80 @@ body{
 	font-family: 'Satisfy', cursive;
 	background-color: #9A7B4F;
 }
+/**HEADER**/
+#header-nav{
+	background-color:#9a7b4f;
+	border-radius: 0;
+	border: 0;
+
+}
+
+.navbar-brand{
+	padding-top: 25px;
+}
+
+.navbar-brand h1{
+	font-family: 'Cinzel Decorative', cursive;
+	font-color:#8D021F;
+	font-size: 50px;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom:0;
+	line-height: .75;
+}
+
+.navbar-brand  a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+#nav-list {
+    background-color: #e4af34;
+}
+
+#nav-list a {
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+}
+
+#nav-list a:hover {
+    color: #202020;
+    background-color: #fce29e;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #7d1913;
+}
+
+
+
+/**END HEADER**/
+
+/**BODY**/
+
+#main-content {
+    width: 92%;
+    margin-bottom: 40px;
+}
+
+#main-content h2 {
+    font-size: 2.9em;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+#main-section {
+    background-color: #82d06b;
+    box-shadow: 0 0 50px #0f5900;
+    padding: 30px;
+}
+
+/** END BODY **/
