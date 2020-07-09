@@ -1,2 +1,0 @@
-# MODULE3
-Assignment
