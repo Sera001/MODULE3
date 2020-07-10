@@ -6,7 +6,7 @@ body{
 }
 /**HEADER**/
 #header-nav{
-	background-color:#9a7b4f;
+	background-color:#8D021F;
 	border-radius: 0;
 	border: 0;
 
@@ -16,7 +16,7 @@ body{
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #AEB6BF;
+    background-color: #8D021F;
 }
 
 .navbar-collapse {
@@ -94,7 +94,7 @@ body{
 	font-size:1.9em;
 }
 #main-section {
-    background-color: #82d06b;
+    background-color: #92326a;
     box-shadow: 0 0 50px #0f5900;
     padding: 30px;
 }
